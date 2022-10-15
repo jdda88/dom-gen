@@ -26,6 +26,6 @@ window.onload = function() {
       }
     }
   }
-  //we assigned were to print our generated domains and assigned the HTTP file
+  //we assigned were to print our generated domains and assigned the HTTP file to an id
   document.querySelector("#domGen").innerHTML = s1;
 };
